@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+.mainDiv {
+    padding-top: 30px;
+    padding-left: 60px;
+    height: 150px;
+}
+
+h1 {
+    place-self: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.divButton {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    place-self: center;
+}
